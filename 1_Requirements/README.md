@@ -55,3 +55,30 @@ Threats (external)
 ·       Government and ACCC regulations.
 
 ·       Lobbying groups influencing consumer perceptions.
+
+# 4W's and 1'H
+# Who:
+* Computer engineering students
+* Digital parking system developer
+# What:
+* A system can store data regarding vehicle parking slots in timely manner.
+# When:
+At the initial stage of vehicle management system.
+# Where:
+This project can be used in commerical places like mall,hospital, offices where parking management are needed.
+# How:
+This project can perform various task at the same time and make user's task smooth and effortless.
+
+# Detail requirements
+## High Level Requirements:
+
+| ID | Description | Status (Implemented/Future)|
+|:---:|:---:|:---:|
+|HLR-1| User shall be able to store data of parked vehicle |Implemented|
+|HLR-2| System output must display data without any error |Implemented|
+|HLR-3| User shall be able to book parking slot online|Future|
+
+##  Low level Requirements:
+| ID | Description | Status (Implemented/Future)|
+|:---:|:---:|:---:|
+|LLR-1|User shall be able to read the output data|Implemented| 
