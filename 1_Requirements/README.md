@@ -20,7 +20,7 @@ Vehicle Parking Management System is based on the concept to generate Parking Ve
 
 Below is the “Strengths-Weaknesses-Opportunities-Threats” (SWOT) analysis for Vehicle Parking Management operations. The table shows the strengths and weaknesses and the potential opportunities and threats.
 
-Strengths (internal)
+## Strengths (internal)
 ·       Unique service system.
 
 ·       Can be scaled up nationally and globally.
@@ -33,14 +33,14 @@ Strengths (internal)
 
 ·       Trial version will allow users to know if they want to use the service easily.
 
-Weaknesses (internal)
+## Weaknesses (internal)
 ·       Inexperienced management system and employees.
 
 ·       High cost start-up and promotion.
 
 ·       High chance of malfunctions, glitches or bugs.
 
-Opportunities (external)
+## Opportunities (external)
 ·       Expand nationally and internationally.
 
 ·       Implement social media to help promote the system.
@@ -49,7 +49,7 @@ Opportunities (external)
 
 ·       Population growth leading to more cars.
 
-Threats (external)
+## Threats (external)
 ·       Limited financial funding for start-up costs and launch of system.
 
 ·       New competitors are likely to provide same service in other cities.
