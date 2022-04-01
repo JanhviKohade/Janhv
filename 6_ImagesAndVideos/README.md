@@ -1,5 +1,5 @@
 # Images
-## Some of the screenshots of the running program...
+## Some of the screenshots of running program...
 ### Portal:
 ![output(1)](https://user-images.githubusercontent.com/90107175/161287759-222a175f-28dc-46ea-8b4e-15f73b92c624.png)
 ### Login Process:
