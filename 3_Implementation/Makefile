@@ -5,7 +5,7 @@ PROJECT_NAME = Vehicle Management
 BUILD = build
 
 # All source code files
-SRC = project_main.c\
+SRC = vehicle.c\
 src/vehicle_operations.c
 
 # All test source files
